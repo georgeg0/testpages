@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+parts:
+- caption: Lectures
+  numbered: True
+  chapters:
+  - file: lectures/lecture2

@@ -1,0 +1,9 @@
+jupyter-book
+ghp-import
+sphinx-thebe
+pandas
+plotly
+matplotlib
+numpy
+ipython-sql
+pgspecial
